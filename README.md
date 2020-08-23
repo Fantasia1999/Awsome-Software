@@ -2,6 +2,10 @@
 ⭐收藏好用的软件
 # 装机常用软件参考
 
+## #
+
+5Kplayer
+
 ## A
 
 Adobe Acrobat DC
@@ -20,6 +24,10 @@ Adobe Photoshop
 
 Adobe Premiere Pro
 
+Aegisub //字幕
+
+Anki
+
 [阿里旺旺](https://alimarket.taobao.com/markets/qnww/portal-group/ww/download)
 
 ## B
@@ -28,15 +36,39 @@ Adobe Premiere Pro
 
 [Bandizip](https://cn.bandisoft.com/bandizip/)
 
+BestTree//ipip.net
+
+暴雪战网
+
 ## C
 
 [Codeblocks](http://www.codeblocks.org/downloads)
 
+Chrome应用
+
+- 微博Lite
+
+cosbroweser
+
+CAJ viewer
+
+conference viewer
+
 ## D
+
+DosBox
+
+大学云
+
+大学云桌面
 
 ## E
 
 [Everything](https://www.voidtools.com/zh-cn/)
+
+Enfocus Local License Manager
+
+Epic Games
 
 ## F
 
@@ -44,9 +76,17 @@ Adobe Premiere Pro
 
 [FileZilla Server](https://filezilla-project.org/)
 
+FastCopy
+
+FinalShell
+
+分区助手
+
 ## G
 
 [Google Chrome](https://www.google.com/intl/zh-CN/chrome/)
+
+Ghostscript
 
 ## H
 
@@ -60,11 +100,19 @@ IDM
 
 [IObit Uninstaller](https://www.iobit.com/en/advanceduninstaller.php)
 
+Intel 网卡驱动
+
+iTunes
+
 ## J
 
 [坚果云](https://www.jianguoyun.com/s/downloads)
 
+金山PDF
+
 ## K
+
+kodi
 
 ## L
 
@@ -76,7 +124,7 @@ IDM
 
 [MuMu模拟器](https://mumu.163.com/)
 
-[幕布](https://mubu.com/apps)
+[幕布](https://mubu.com/apps)//beta
 
 ### Microsoft Store
 
@@ -110,13 +158,23 @@ Bibliovore
 
 Telegram Desktop
 
+Dell Mobile connect
+
+[Snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)
+
+Win Dynamic Desktop
+
+WinFi
+
 ## N
 
 [Notepad++](https://notepad-plus-plus.org/)
 
+Neat Reader
+
 ## O
 
-Office 2016
+Office 365
 
 Onedrive
 
@@ -124,11 +182,19 @@ Onedrive
 
 [欧路词典](https://www.eudic.net/v4/en/app/eudic)
 
+OneNote
+
+Outlook
+
 ## P
 
 [PanDownload](http://pandownload.com/)
 
 [Pandoc]
+
+[PotPlayer](https://potplayer.daum.net/)
+
+PowerToys
 
 ## Q
 
@@ -142,13 +208,13 @@ Onedrive
 
 [Sublime Text 3](https://www.sublimetext.com/) / [配置C++]()
 
-[Snipaste](https://www.microsoft.com/store/productId/9P1WXPKB68KX)
-
 [Steam]()
 
 [SupportAssist]
 
 [搜狗输入法](https://pinyin.sogou.com/)
+
+Sumatra PDF
 
 ## T
 
@@ -171,7 +237,7 @@ Onedrive
 - CLion
 - PyCharm
 
-[Telegram]()
+[Telegram](https://desktop.telegram.org/)
 
 [TeamViewer](https://www.teamviewer.cn/cn/download/windows/)
 
@@ -179,7 +245,7 @@ Onedrive
 
 ## V
 
-[VideoLAN](https://www.videolan.org/vlc/index.zh.html)
+[VideoLAN](https://www.videolan.org/vlc/index.zh.html)//VLC播放器
 
 ## W
 
@@ -193,6 +259,10 @@ Onedrive
 
 [网易云音乐](https://music.163.com/#/download)
 
+WinRAR
+
+WizNote Lite
+
 ## X
 
 [XShell](https://www.netsarang.com/zh/xshell/)
@@ -201,28 +271,44 @@ Onedrive
 
 [XMind](https://www.xmind.cn/)
 
-[小米互传]
+[小米->智能互联]
 
 [小丸工具箱](https://maruko.appinn.me/)
 
 ## Y
 
+Yosor //markdown笔记
+
 [语雀](https://www.yuque.com/install/desktop)
+
+印象笔记
+
+有道词典
+
+字幕转换助手
 
 ## Z
 
 ## 配置环境
 
-[Git]
+[Git](https://git-scm.com/downloads)
 
-[Vim]
+[Vim](https://www.vim.org/download.php)
 
-[VS Code](https://code.visualstudio.com/)
+[Visual Studio Code](https://code.visualstudio.com/)
 
 [Visual Studio 2019](https://visualstudio.microsoft.com/zh-hans/vs/)
 
-[Node.js]
+[Node.js](https://nodejs.org/zh-cn/)
 
 [WSL Ubuntu]
 
-[Python 3.x]
+[Python 3.x](https://www.python.org/downloads/windows/)
+
+[Tool Box](https://www.jetbrains.com/toolbox-app/)
+
+- CLion
+
+- PyCharm
+
+[MinGw](http://www.mingw.org/)
