@@ -202,6 +202,8 @@ Outlook
 
 PowerToys
 
+Pixiv (APP)
+
 ## Q
 
 ## R
