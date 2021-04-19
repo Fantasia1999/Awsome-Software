@@ -172,6 +172,8 @@ Win Dynamic Desktop
 
 WinFi
 
+Okular //👍Windows PDF阅读器
+
 ## N
 
 [Notepad++](https://notepad-plus-plus.org/)
