@@ -147,6 +147,8 @@ MathType 7
 
 MiphoneAssistant
 
+MobaXterm Personal
+
 ### Microsoft Store
 
 你的手机
