@@ -1,4 +1,5 @@
 # Awsome-Software
+
 ⭐收藏好用的软件
 
 欢迎提供PR！
@@ -46,6 +47,8 @@ BestTree//ipip.net
 
 暴雪战网
 
+BitComet
+
 ## C
 
 [Codeblocks](http://www.codeblocks.org/downloads)
@@ -68,6 +71,10 @@ DosBox
 
 大学云桌面
 
+DaVinci Resolve
+
+Dbgate
+
 ## E
 
 [Everything](https://www.voidtools.com/zh-cn/)
@@ -75,6 +82,8 @@ DosBox
 Enfocus Local License Manager
 
 Epic Games
+
+EndNote
 
 ## F
 
@@ -132,6 +141,12 @@ kodi
 
 [幕布](https://mubu.com/apps)//beta
 
+MAMP
+
+MathType 7
+
+MiphoneAssistant
+
 ### Microsoft Store
 
 你的手机
@@ -174,6 +189,10 @@ WinFi
 
 Okular //👍Windows PDF阅读器
 
+Dell Power Manager
+
+电池健康状况检查
+
 ## N
 
 [Notepad++](https://notepad-plus-plus.org/)
@@ -206,6 +225,10 @@ PowerToys
 
 Pixiv (APP)
 
+PicGo
+
+Postman
+
 ## Q
 
 ## R
@@ -213,6 +236,8 @@ Pixiv (APP)
 [ReNamer](https://www.den4b.com/products/renamer)
 
 [RaiDrive](https://www.raidrive.com/download)
+
+Resilio Sync
 
 ## S
 
@@ -225,6 +250,10 @@ Pixiv (APP)
 [搜狗输入法](https://pinyin.sogou.com/)
 
 Sumatra PDF
+
+Source insight
+
+SQLyog
 
 ## T
 
